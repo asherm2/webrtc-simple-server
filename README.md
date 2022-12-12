@@ -4,3 +4,4 @@
 npm i -g yarn
 yarn dev
 ```
+Will add some nestjs in here soon
